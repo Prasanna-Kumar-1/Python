@@ -5,6 +5,7 @@ aus_cities = {"NSW": "Sydney",
               "WA": "Perth",
               "ACT": "Canberra"
               }
-
-for city in aus_cities:
-    print(aus_cities[city])
+for i in range(10):
+    for city in aus_cities:
+        print(aus_cities[city])
+    print("-" * 40)
