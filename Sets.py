@@ -1,3 +1,4 @@
+# Sets : Unordered collections of unique elements
 # Creating a Set
 aus_cities = {"Sydney", "Melbourne", "Adelide", "Brisbane"}
 print(aus_cities)
