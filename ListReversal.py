@@ -8,6 +8,8 @@ numbers2 = [7, 8, 9, 10, 11]
 result2 = list(reversed(numbers2))
 print(result2)
 
-numbers3 = [100, 99, 98, 97, 96]
-result3 = numbers3[::-1]
-print(result3)
+numbers4 = [100, 99, 98, 97, 96]
+result4 = numbers4[::-1]
+print(result4)
+
+
