@@ -24,7 +24,6 @@ print(new_list)
 # ---------------------
 
 # The map() function in Python takes in a function and a list.
-
 # Program to double each item in a list using map()
 
 my_list = [1, 5, 4, 6, 8, 11, 3, 12]
